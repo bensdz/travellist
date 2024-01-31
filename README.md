@@ -6,7 +6,7 @@ Travel List
 
 An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
 
-## Project Screen Shot(s)
+## Project Screen Shot
 
 ![alt text](https://i.imgur.com/DG59Qiv.png)
 
@@ -30,4 +30,4 @@ To Start Server:
 
 To Visit App:
 
-`localhost:3000/ideas`  
+`localhost:3000`  
